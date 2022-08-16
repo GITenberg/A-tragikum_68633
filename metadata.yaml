@@ -1,0 +1,31 @@
+_repo: A-tragikum_68633
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beöthy, Zsolt
+    alias: Beothy, Zsolt
+    birthdate: 1848
+    deathdate: 1922
+    gutenberg_agent_id: '54611'
+    url: http://www.gutenberg.org/2009/agents/54611
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Zsolt_Be%C3%B6thy
+    - https://hu.wikipedia.org/wiki/Be%C3%B6thy_Zsolt
+description: ''
+gutenberg_issued: '2022-07-29'
+identifiers:
+  gutenberg: '68633'
+language: hu
+pgterms:marc905: 20220721062609bethy
+pgterms:marc906: '1885'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Kisfaludy-Társaság,1885.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A tragikum
+url: http://www.gutenberg.org/ebooks/68633
