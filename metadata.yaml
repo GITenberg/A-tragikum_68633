@@ -1,5 +1,8 @@
 _repo: A-tragikum_68633
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68633-h/images/cover.jpg
 creator:
   author:
     agent_name: Beöthy, Zsolt
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Zsolt_Be%C3%B6thy
     - https://hu.wikipedia.org/wiki/Be%C3%B6thy_Zsolt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68633#A-tragikum
 gutenberg_issued: '2022-07-29'
 identifiers:
   gutenberg: '68633'
